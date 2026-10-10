@@ -1,0 +1,7 @@
+vault.json
+*.key
+passwords.json
+master_password_hash.txt
+.env
+__pycache__/
+.adera/
